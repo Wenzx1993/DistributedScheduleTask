@@ -9,7 +9,7 @@ import com.dangdang.ddframe.job.reg.base.CoordinatorRegistryCenter;
 import com.dangdang.ddframe.job.reg.zookeeper.ZookeeperConfiguration;
 import com.dangdang.ddframe.job.reg.zookeeper.ZookeeperRegistryCenter;
 
-public class JobMain1 {
+public class JobMain3 {
 
     public static void main(String[] args) {
         String zkHost = "192.168.119.141:2182";
